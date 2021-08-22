@@ -1,0 +1,17 @@
+{
+  "name": "prime_loot_claimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18"
+  }
+}
